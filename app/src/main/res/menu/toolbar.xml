@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/back"
+        android:title="back"
+        android:icon="@mipmap/f1"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/home"
+        android:title="home"
+        android:icon="@mipmap/f2"
+        android:showAsAction="always"
+        />
+    <item
+        android:id="@+id/set"
+        android:title="set"
+        android:icon="@mipmap/f3"
+        android:showAsAction="always"
+        />
+</menu>

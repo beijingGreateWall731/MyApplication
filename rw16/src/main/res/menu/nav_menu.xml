@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+       android:id="@+id/lxr"
+        android:icon="@mipmap/lianxiren"
+        android:title="联系人"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/qun"
+        android:icon="@mipmap/qun"
+        android:title="群组"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/address"
+        android:icon="@mipmap/dizhi"
+        android:title="地址"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/email"
+        android:icon="@mipmap/youxiang"
+        android:title="邮箱"
+        app:showAsAction="always"
+        />
+</menu>
